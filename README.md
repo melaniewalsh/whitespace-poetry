@@ -3,7 +3,6 @@
 This repository contains a dataset of **2.8k public domain poems** with preserved whitespace that were curated for the paper:
 
 **"Whitespace (TBD)"**  
-**Authors**: Maria Antoniak, Sriharsh Bhyravajjula, Anna Preus, Melanie Walsh
 
 ## 📖 About the Dataset
 
