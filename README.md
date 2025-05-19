@@ -8,7 +8,7 @@ This repository contains a dataset of **2.8k public domain poems** with preserve
 
 This dataset includes 2.8k poems from the [Poetry Foundation](https://www.poetryfoundation.org/), which were processed to preserve poetic whitespace---a crucial but often-overlooked aspect of poetry. 
 
-To retain original formatting, the poems were converted from HTML using [`resiliparse`](https://github.com/tsproisl/resiliparse), an HTML parser that supports precise whitespace preservation (e.g., line breaks, indentation, em-spaces, non-breaking spaces, and more).
+To retain original formatting, the poems were converted from HTML using [`resiliparse`](https://resiliparse.chatnoir.eu/en/stable/), an HTML parser that supports precise whitespace preservation (e.g., line breaks, indentation, em-spaces, non-breaking spaces, and more).
 
 Each row in the dataset represents a single poem and includes the following metadata:
 
@@ -25,7 +25,7 @@ Each row in the dataset represents a single poem and includes the following meta
   A label indicating the genre or format of the work (e.g., `"Prose"`, `"Verse"`, `"Visual"`).
 
 - **`poem_text`**  
-  The whitespace-preserved full text of the poem, extracted from HTML using [`resiliparse`](https://github.com/tsproisl/resiliparse). Includes line breaks, indentation, non-breaking spaces, and other whitespace variants relevant to poetry.
+  The whitespace-preserved full text of the poem, extracted from HTML using [`resiliparse`](https://github.com/tsproisl/resiliparsehttps://resiliparse.chatnoir.eu/en/stable/). Includes line breaks, indentation, non-breaking spaces, and other whitespace variants relevant to poetry.
 
 - **`poem_copyright_and_source`**  
   Copyright information and original publication/source metadata. Used to determine public domain status when combined with author death year and copyright year.
