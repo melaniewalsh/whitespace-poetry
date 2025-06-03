@@ -2,7 +2,7 @@
 
 This repository contains a dataset of **2.8k public domain poems** with preserved whitespace that were curated for the paper:
 
-**so much depends / upon / a whitespace: Why Whitespace Matters for Poets and LLMs"**  
+**"so much depends / upon / a whitespace: Why Whitespace Matters for Poets and LLMs"**  
 
 ## 📖 About the Dataset
 
