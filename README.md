@@ -51,12 +51,6 @@ Each row in the dataset represents a single poem and includes the following meta
 - **`poet_death_year`**  
   The death year of the poet, as listed on the Poetry Foundation site.
 
-- **`birth_year_from_exp`**  
-  An extracted birth year, parsed programmatically from textual metadata.
-
-- **`death_year_from_exp`**  
-  An extracted death year, parsed programmatically from textual metadata. Used to help assess public domain status.
-
 - **`poet_categories`**  
   Tags or labels applied to the poet (e.g., "Modern", "England," Victorian", "Renaissance").
 
@@ -89,6 +83,6 @@ We also share a [Google spreadsheet](https://docs.google.com/spreadsheets/d/1mr6
 ## 🧪 Citation
 
 This dataset supports the analysis in our paper:  
-> “Whitespace.”
+> **"so much depends / upon / a whitespace: Why Whitespace Matters for Poets and LLMs"**  
 
 ---
